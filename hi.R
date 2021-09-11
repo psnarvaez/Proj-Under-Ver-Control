@@ -1,1 +1,2 @@
-print ("Hello")
+Hello
+No need for codes again?
